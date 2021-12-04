@@ -1,0 +1,33 @@
+                                 ===============Commands==============
+
+
+
+1. Comanda Open - comanda open trebuie sa fie urmata de un anumit nume(website) pe care doriti ca Snarky 
+                  sa il deschida pentru dumneavoastra. De exemplu : open youtube.
+
+
+2. Comanda joke - la rostirea unei propozitii care contine cuvantul joke spre exemplu (Tell me a joke) botul va rosti automat 
+                  o gluma
+
+3. Comanda make a note - aceasta comanda va ajuta sa va notati lucrurile importante intr-un note de pe calculator.
+                         De exemplu : "make a note" urmata de "Sunt un om." Botul va genera automat un note 
+                         in care va nota fraza
+4. Comanda message - aceasta comanda va ofera posibilitatea sa trimite un mesaj pe facebook unui prieten la alegere.
+                         De exemplu : "message" "Pop Andrei" urmat de mesajul pe care doriti sa il transmiteti.
+
+5. Comanda change your voice - va permite sa rugati botul sa isi schimbe vocea (feminina sau masculina)
+
+6. Comanda search - aceasta comanda va permite sa cautati un anumit lucru pe google automat
+                    De exemplu: search "Subiecte Bac 2019"
+
+7.Comanda close - aceasta comanda va anunta botul ca este momentul sa isi inchida executia.
+
+
+======================================= Alte Comenzi Integrate===================
+
+Comanda "how are you" il va indemna pe bot sa va raspunda si sa va intrebe la randul lui cum va simtiti.
+Alte comenzi siminlare vor aparea in curand(momentan lucram la ele)
+
+
+
+                   

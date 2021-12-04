@@ -1,0 +1,7 @@
+button = tk.Button(frame, text="Start", font=40, command=lambda: inceput(),)
+button.place(relx=0.2, relheight=1, relwidth=0.3) 
+
+button = tk.Button(frame, text="Get Weather", font=40, command=lambda: assistant(comandaA()))
+button.place(relx=0.7, relheight=1, relwidth=0.3)
+if iesire==0:
+   root.mainloop()

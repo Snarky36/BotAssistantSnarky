@@ -1,9 +1,8 @@
 # BotAssistantSnarky
-Bot assistant version 2.0\n
-This Bot assistant knows: \n
-  How to speak to you (basic sentences).
-  It memories your name.
-  How to make notes for you.
-  Log in and send messages on Facebook for you.
-  Open web sites.
-  Search for information on google.
+This Bot assistant knows:<br> 
+  -How to speak to you (basic sentences).<br> 
+  -It memories your name.<br> 
+  -How to make notes for you.<br> 
+  -Log in and send messages on Facebook for you.<br> 
+  -Open web sites.<br> 
+  -Search for information on google.<br> 

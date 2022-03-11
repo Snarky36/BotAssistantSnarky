@@ -7,4 +7,3 @@ This Bot assistant knows:
   Log in and send messages on Facebook for you.
   Open web sites.
   Search for information on google.
-  Play music Youtube for you.
